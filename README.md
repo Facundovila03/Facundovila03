@@ -5,4 +5,4 @@ Welcome to my github!, my name is **Facundo Vila**
 📍 Buenos Aires, Argentina
 # 🔧 Skills
 ### programming languages
-<img src="js.svg" width="245.184" />
+<img src="js.svg" width="122" />
