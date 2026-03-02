@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="220"
+   height="100"
+   viewBox="0 0 219.99999 100"
+   sodipodi:docname="png-transparent-golang-hd-logo.png"
+   inkscape:export-filename="../Desktop/coding/Facundovila03/DOCKER.svg"
+   inkscape:export-xdpi="164.4295"
+   inkscape:export-ydpi="164.4295"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:dataloss="true"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter14"
+       x="-6.9083961e-05"
+       y="-0.000456303"
+       width="1.0001382"
+       height="1.0009126">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.017716152"
+         id="feGaussianBlur14" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false"
+     inkscape:zoom="0.49234904"
+     inkscape:cx="268.10248"
+     inkscape:cy="267.08694"
+     inkscape:window-width="1728"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1"
+     inkscape:export-bgcolor="#ffffff00">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="219.99998"
+       height="100"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(-982.01842,-0.70194543)">
+    <g
+       id="g13"
+       inkscape:label="mongo">
+      <rect
+         style="fill:#10aa50;fill-opacity:1;fill-rule:nonzero;stroke-width:1.04881"
+         id="rect12"
+         width="220"
+         height="100"
+         x="982.01843"
+         y="0.70194542" />
+      <g
+         id="g11-3"
+         transform="matrix(0.25148655,0,0,0.25148655,996.69456,12.676925)"
+         style="fill:#ececec">
+        <path
+           class="cls-1"
+           d="M 105.80832,138.32682 C 90.498324,70.786812 58.588324,52.806812 50.448324,40.096812 a 144.57,144.57 0 0 1 -8.9,-17.42 c -0.43,6 -1.22,9.78 -6.32,14.33 -10.24,9.13 -53.73,44.57 -57.39,121.310008 -3.41,71.55 52.6,115.67 60,120.23 5.69,2.8 12.62,0.06 16,-2.51 27,-18.53 63.889996,-67.93 51.999996,-137.71"
+           id="path1-8"
+           style="fill:#ececec" />
+        <path
+           class="cls-2"
+           d="m 43.868324,221.56526 c -1.41,17.71 -2.42,28 -6,38.12 0,0 2.35,16.86 4,34.72 h 5.84 a 324.73,324.73 0 0 1 6.37,-37.39 c -7.56,-3.72 -9.92,-19.91 -10.21,-35.45 z"
+           id="path2-2"
+           style="fill:#cccccc" />
+        <path
+           class="cls-3"
+           d="m 54.068324,257.02526 v 0 c -7.64,-3.53 -9.85,-20.06 -10.19,-35.46 a 725.83,725.83 0 0 0 1.65,-76.35 c -0.4,-13.36 0.19,-123.74 -3.29,-139.8999999 a 134.29,134.29 0 0 0 8.21,15.8899999 c 8.14,12.72 40.06,30.7 55.359996,98.24 11.92,69.66 -24.769996,118.93 -51.739996,137.58 z"
+           id="path3-2"
+           style="fill:#000000;fill-opacity:0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.97636;filter:url(#filter14)"
+           x="156.64633"
+           y="196.1601"
+           id="text14"><tspan
+             sodipodi:role="line"
+             id="tspan14"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:3.97636"
+             x="156.64633"
+             y="196.1601">MONGO DB</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
