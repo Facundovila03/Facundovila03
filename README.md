@@ -7,10 +7,11 @@ Welcome to my github!, my name is **Facundo Vila**
 📍 Buenos Aires, Argentina
 # 🔧 Skills
 ### 🖥️ Programming languages
-<img src="js.png" height="40" /> <img src="go.png" height="40" /> <img src="python.png" height="40" /> 
+[![My Skills](https://skillicons.dev/icons?i=js,go,python)](https://skillicons.dev)
 ### 🧑🏻‍💻 Webdev
-<img src="react.png" height="40" /> <img src="html.png" height="40" /> <img src="css.png" height="40" /> 
+[![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
 ### 💿 Databases
-<img src="mongo.png" height="40" /> <img src="postgres.png" height="40" /> 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 ### 📁 Other
-<img src="docker.png" height="40" /> <img src="js.png" height="40" /> <img src="git.png" height="40" /> 
+[![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)
+
