@@ -6,7 +6,8 @@ Welcome to my github!, my name is **Facundo Vila**
 
 📍 Buenos Aires, Argentina
 
-reach me at:
+**reach me at:**
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/facundo-vila-7397b5222/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:facundovila03@gmail.com)
 
