@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&letterSpacing=0.1rem&pause=2000&color=D3D3D3&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+my+github+!;)](https://git.io/typing-svg)
-</div>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&letterSpacing=0.1rem&pause=2000&color=D3D3D3&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+my+github!+👋;)](https://git.io/typing-svg)
+</div>
 # 👤 Whoami
-Welcome to my github!, my name is **Facundo Vila**
+ my name is **Facundo Vila** 
 
 📚 Software Engineering student at Universidad de Buenos Aires 
 
