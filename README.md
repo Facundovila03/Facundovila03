@@ -5,8 +5,9 @@
 
 
 # 👤 Whoami
- my name is **Facundo Vila** 
+ my name is **Facundo Vila**, a 22 year old Software Engineering student at Universidad de Buenos Aires
 
+ 
 📚 Software Engineering student at Universidad de Buenos Aires 
 
 
