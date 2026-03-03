@@ -6,7 +6,7 @@ Welcome to my github!, my name is **Facundo Vila**
 
 📍 Buenos Aires, Argentina
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/facundo-vila-7397b5222/))
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/facundo-vila-7397b5222/)
 
 # 🧩 Recent projects
 > The Overworld Academy
