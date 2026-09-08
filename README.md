@@ -26,7 +26,7 @@ The overworld academy is a web page developed with my teammates as part of the I
 
 # 🔧 Skills
 ### 🖥️ Programming languages
-[![My Skills](https://skillicons.dev/icons?i=js,go,python,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,python,bash,java,c++)](https://skillicons.dev)
 ### 🧑🏻‍💻 Webdev
 [![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
 ### 💿 Databases
